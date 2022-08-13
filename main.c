@@ -5,6 +5,8 @@
 
 int LongestOcc(int* arr, int key)
 {
+
+
     int i;
     int maxcount=0;
     int count=0;
